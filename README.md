@@ -10,8 +10,8 @@ Each file will contain the solution for the day's challange.
 - A Common Lisp installation, [SBCL](http://www.sbcl.org) for example
 
 ## Running
-To run a particular day, such as day1.lisp, you can use the following commands:
+To run a particular day, such as 01.lisp, you can use the following commands:
 ```
 cd src
-sbcl --script day1.lisp
+sbcl --script 01.lisp
 ```
